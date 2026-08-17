@@ -122,7 +122,6 @@ struct piramid {
             point = get_parent_index(point);
 
             std::cout << "ОК" << std::endl;
-
             return point;
         }
         return point;
